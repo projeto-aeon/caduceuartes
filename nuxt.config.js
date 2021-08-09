@@ -18,6 +18,12 @@ export default {
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon1.ico' },
       {rel:"stylesheet", href:"https://rsms.me/inter/inter.css"}
+    ],
+    script: [
+      {
+        src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
+        'data-ad-client': 'ca-pub-6880721197168493',
+      }
     ]
   },
 
